@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "NAMBA",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-03-28T08:42:23.446712Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Namba Moja",
+      "artist": "Walter Chilambo",
+      "has_synced": false,
+      "path": "select/01_Namba_Moja_Walter_Chilambo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Inferno (Live Track From TOUR 2016 \"Taiyou ga Hoshii Dake\" 16.10.30 at Zepp Namba)",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/02_Inferno_(Live_Track_From_TOUR_2016__Taiyou_ga_Hoshii_Dake__16.10.30_at_Zepp_Namb_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Namba Mudhalali",
+      "artist": "Malaysia Vasudevan",
+      "has_synced": false,
+      "path": "select/03_Namba_Mudhalali_Malaysia_Vasudevan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Namba, a Gangamorada",
+      "artist": "Gilberto Gil",
+      "has_synced": false,
+      "path": "select/04_Namba,_a_Gangamorada_Gilberto_Gil.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Namba, a Gangamorada",
+      "artist": "Gil, Gilberto",
+      "has_synced": false,
+      "path": "select/05_Namba,_a_Gangamorada_Gil,_Gilberto.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "花一匁 (Live at Namba Hatch, 2020)",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/06_花一匁_(Live_at_Namba_Hatch,_2020)_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "インフェルノ Live Track From TOUR 2016 “太陽が欲しいだけ” 16.10.30 at Zepp Namba",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/07_インフェルノ_Live_Track_From_TOUR_2016_“太陽が欲しいだけ”_16.10.30_at_Zepp_Namba_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "NAMBA (feat. Bark & YZERR)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/08_NAMBA_(feat._Bark_&_YZERR)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Namba dança, a gangamorada (feat. Nara Gil)",
+      "artist": "Gilberto Gil",
+      "has_synced": false,
+      "path": "select/09_Namba_dança,_a_gangamorada_(feat._Nara_Gil)_Gilberto_Gil.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Inferno (Live Track From TOUR 2016 ''Taiyo ga Hoshii Dake'' 16.10.30 at Zepp Namba)",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/10_Inferno_(Live_Track_From_TOUR_2016_''Taiyo_ga_Hoshii_Dake''_16.10.30_at_Zepp_Nam_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Red Namba Plate",
+      "artist": "Octopizzo",
+      "has_synced": true,
+      "path": "select/11_Red_Namba_Plate_Octopizzo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hey Goodbye Namba",
+      "artist": "A.R. RAHMAN",
+      "has_synced": true,
+      "path": "select/12_Hey_Goodbye_Namba_A.R._RAHMAN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "IS THIS LOVE? Produced by 難波章浩-AKIHIRO NAMBA-",
+      "artist": "ANNA TSUCHIYA",
+      "has_synced": false,
+      "path": "select/13_IS_THIS_LOVE__Produced_by_難波章浩-AKIHIRO_NAMBA-_ANNA_TSUCHIYA.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "インフェルノ Live Track From TOUR 2016 \"太陽が欲しいだけ\" 16.10.30 at Zepp Namba",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/14_インフェルノ_Live_Track_From_TOUR_2016__太陽が欲しいだけ__16.10.30_at_Zepp_Namba_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Oh Namba",
+      "artist": "Joe Dassin",
+      "has_synced": true,
+      "path": "select/15_Oh_Namba_Joe_Dassin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Namba dança, a gangamorada",
+      "artist": "Gilberto Gil",
+      "has_synced": true,
+      "path": "select/16_Namba_dança,_a_gangamorada_Gilberto_Gil.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Oh! Namba!",
+      "artist": "Joe Dassin",
+      "has_synced": true,
+      "path": "select/17_Oh!_Namba!_Joe_Dassin.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "hikariare (Live at Namba Hatch, 2020)",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": false,
+      "path": "select/18_hikariare_(Live_at_Namba_Hatch,_2020)_BURNOUT_SYNDROMES.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Kimi Ni Juice O Katteageru Better (Zepp Namba Osaka)",
+      "artist": "Group Tamashii",
+      "has_synced": false,
+      "path": "select/19_Kimi_Ni_Juice_O_Katteageru_Better_(Zepp_Namba_Osaka)_Group_Tamashii.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NAMBA (feat. Bark & YZERR)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_NAMBA_(feat._Bark_&_YZERR)_BAD_HOP.txt"
+    }
+  ]
+}
